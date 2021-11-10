@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/public/godel/logo/godel1.png" width="350">
+  <img src="https://smkpciwaringin.sch.id/wp-content/uploads/2021/06/logo-smk-removebg-preview.png" width="350">
 </p>
 
-<h1 align="center"> GoDel </h1>
+<h1 align="center"> AILCoE </h1>
 
 <p align="center">dibuat menggunakan :</p>
 
@@ -20,9 +20,7 @@ GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secar
 
 ## Contributor
 
-- <a href="https://github.com/efreethinx">Dede Iyan Supardi</a> : efreethinx@gmail.com
-- <a href="https://github.com/IlmiMubarok21">Ilmi Nur Aziz Aqil Mubarok</a> : ilmimubarok21@gmail.com
-- <a href="https://github.com/VernandiaEkristaPramesti">Vernandia Ekrista Pramesti</a> : vekristapramesti@gmail.com
+- <a href="https://github.com/heavensmaiden">Nunung Nurhayati</a> : heavensmaiden@gmail.com
 - <a href="https://github.com/azkaainurridho514">Azka Ainurridho</a> : azkaainurridho514@gmail.com
 
 ## License
