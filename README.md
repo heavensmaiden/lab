@@ -11,10 +11,10 @@
 <p align="center"><a href="https://getbootstrap.com">Bootstrap 4</a></p>
 <p align="center"><a href="https://www.bootstrapzero.com/bootstrap-template/landing-zero-free-bootstrap-theme">Landing Zero</a></p>
 
-## About GoDel
+## About AILCoE
 Go Delivery (GoDel) adalah aplikasi pengelolaan jasa antar dan belanja di lingkungan kecil, dibuat dengan konsep sederhana dengat tujuan menghubungkan pihak konsumen yang ingin berbejanja, toko yang menjual barang dan kurir yang mengantar belenjaan.
 
-## GoDel Sponsors
+## AILCoE Sponsors
 
 GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secara penuh oleh Al-Faris Solution, sebuah startup software house yang sedang berkembang di Majalengka.
 
@@ -28,4 +28,4 @@ GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secar
 - The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 - GoDel is open-sourced on development only.
 
-# GoDel
+# AILCoE
